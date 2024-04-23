@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src=![giphy](https://github.com/Celoba1/Celoba1/assets/109704814/d4a09eee-80aa-42a6-8e47-9b3ee671d896) />
+<img align="right" height="150" src=(https://github.com/Celoba1/Celoba1/assets/109704814/d4a09eee-80aa-42a6-8e47-9b3ee671d896) />
 
 
 ###
