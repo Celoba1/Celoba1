@@ -2,7 +2,8 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN29qdjN0dWxpOXBqZzBkbnoyMW9sd3k5YWNvMXNiaW94dTN3ZDN4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VLzbEtlbwJUFljcRbf/giphy.gif"  />
+<img align="right" height="150" src=![giphy](https://github.com/Celoba1/Celoba1/assets/109704814/d4a09eee-80aa-42a6-8e47-9b3ee671d896) />
+
 
 ###
 
