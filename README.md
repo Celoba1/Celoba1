@@ -27,6 +27,6 @@
 
 ###
 
-<p align="left">I'm working in DEXPAY as an intern, utilizing REACT and Typescript as main technologies. Hope to be great one day.</p>
+<p align="left">Used to work in DEXPAY as an intern, utilizing REACT and Typescript as main technologies. Hope to be great one day.</p>
 
 ###
