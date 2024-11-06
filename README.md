@@ -27,6 +27,6 @@
 
 ###
 
-<p align="left">Used to work in DEXPAY as an intern, utilizing REACT and Typescript as main technologies. Hope to be great one day.</p>
+<p align="left">Working at dti digital as an intern, utilizing REACT, javascript and dotNet as main technologies. Hope to be great one day.</p>
 
 ###
